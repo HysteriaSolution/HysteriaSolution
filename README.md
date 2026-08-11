@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Fullstack-27272a?style=flat-square"/>
       <img src="https://img.shields.io/badge/Web%20%26%20Dev-27272a?style=flat-square"/>
       <br><br>
-<blockquote><code>00000000  7b 20 22 6e 61 6d 65 22 &nbsp;|{ "name"|</code></blockquote>      <br>
+<blockquote><code>00000000 40 63 65 6f 5f 65 75</code></blockquote><br>
       <pre><code>{
   "name": "HysteriaSolution",
   "status": "Active",

@@ -1,7 +1,7 @@
 <div align="center">
-<table border="0" cellpadding="20" cellspacing="0" width="800">
+<table border="0" cellpadding="20" cellspacing="0" width="850">
 <tr>
-<td width="35%" align="center" valign="top">
+<td width="40%" align="center" valign="middle">
 <img src="https://i.imgur.com/wCq2vsx.jpeg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" alt="ты просто босс сука ты просто начальник нахуй" />
 <br><br>
 <h2>HysteriaSolution</h2>
@@ -17,7 +17,7 @@
 <a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/a1a1aa" height="20" title="Next.js" /></a>
 </p>
 </td>
-<td width="65%" align="left" valign="top">
+<td width="60%" align="left" valign="middle">
 <h1>I'm HysteriaSolution</h1>
 <img src="https://img.shields.io/badge/Fullstack-Developer-27272a?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web%20%26%20Dev-Engineering-27272a?style=for-the-badge&logo=w3c&logoColor=white"/>

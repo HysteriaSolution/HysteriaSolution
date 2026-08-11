@@ -18,6 +18,7 @@
 </p>
 </td>
 <td width="65%" align="left" valign="top">
+<h1>I'm HysteriaSolution</h1>
 <img src="https://img.shields.io/badge/Fullstack-Developer-27272a?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web%20%26%20Dev-Engineering-27272a?style=for-the-badge&logo=w3c&logoColor=white"/>
 <br><br><br>

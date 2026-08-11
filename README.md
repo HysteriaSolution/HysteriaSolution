@@ -2,7 +2,7 @@
 <table border="0" cellpadding="20" cellspacing="0" width="800">
 <tr>
 <td width="35%" align="center" valign="top">
-<img src="https://i.imgur.com/wCq2vsx.jpeg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" alt="rektov" />
+<img src="https://i.imgur.com/wCq2vsx.jpeg" width="180" height="180" style="border-radius: 50%; object-fit: cover;" alt="ты просто босс сука ты просто начальник нахуй" />
 <br><br>
 <h2>HysteriaSolution</h2>
 <code>Fullstack Developer</code>
@@ -18,7 +18,6 @@
 </p>
 </td>
 <td width="65%" align="left" valign="top">
-<h1>Hi, I'm HysteriaSolution ⚡</h1>
 <img src="https://img.shields.io/badge/Fullstack-Developer-27272a?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web%20%26%20Dev-Engineering-27272a?style=for-the-badge&logo=w3c&logoColor=white"/>
 <br><br><br>

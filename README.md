@@ -7,11 +7,7 @@
       <strong>HysteriaSolution</strong><br>
       <code>Fullstack Developer</code>
       <br><br>
-      <img src="https://img.shields.io/badge/%E2%97%8F%20System_Online-27272a?style=flat-square&color=27272a&labelColor=3f0000"/>
-      <img src="https://img.shields.io/badge/[Terminal]-27272a?style=flat-square"/>
-      <br><br>
-      <img src="https://img.shields.io/github/followers/rektov?style=flat-square&labelColor=27272a&color=18181b&label=Followers"/>
-      <img src="https://img.shields.io/github/stars/rektov?style=flat-square&labelColor=27272a&color=18181b&label=Stars"/>
+      <img src="https://img.shields.io/badge/In_IDE-27272a?style=flat-square&color=27272a&labelColor=3f0000"/>
       <br><br>
       <img src="https://cdn.simpleicons.org/python/a1a1aa" height="16" title="Python" />&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/cplusplus/a1a1aa" height="16" title="C++" />&nbsp;&nbsp;
@@ -22,7 +18,7 @@
     </td>
     <td width="440" align="left" valign="top">
       <br>
-      <h1>rektov</h1>
+      <h1>HysteriaSolution</h1>
 <img src="https://img.shields.io/badge/Fullstack-27272a?style=flat-square"/>
       <img src="https://img.shields.io/badge/Web%20%26%20Dev-27272a?style=flat-square"/>
       <br><br>

@@ -10,11 +10,11 @@
 <img src="https://img.shields.io/badge/Status-In__IDE-27272a?style=for-the-badge&color=27272a&labelColor=3f0000"/>
 <br><br><br>
 <p align="center">
-<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/python/a1a1aa" height="28" title="Python" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/javascript/a1a1aa" height="28" title="JavaScript" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/react/a1a1aa" height="28" title="React" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/a1a1aa" height="28" title="Node.js" /></a>&nbsp;&nbsp;&nbsp;
-<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/a1a1aa" height="28" title="Next.js" /></a>
+<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/python/a1a1aa" height="20" title="Python" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/javascript/a1a1aa" height="20" title="JavaScript" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/react/a1a1aa" height="20" title="React" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/a1a1aa" height="20" title="Node.js" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/a1a1aa" height="20" title="Next.js" /></a>
 </p>
 </td>
 <td width="65%" align="left" valign="top">

@@ -9,11 +9,11 @@
       <br><br>
       <img src="https://img.shields.io/badge/In_IDE-27272a?style=flat-square&color=27272a&labelColor=3f0000"/>
       <br><br>
-      <img src="https://cdn.simpleicons.org/python/a1a1aa" height="16" title="Python" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/javascript/a1a1aa" height="16" title="JavaScript" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/react/a1a1aa" height="16" title="React" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/nodedotjs/a1a1aa" height="16" title="Node.js" />&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/nextdotjs/a1a1aa" height="16" title="Next.js" />
+      <a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/python/a1a1aa" height="16" title="Python" /></a>&nbsp;&nbsp;
+      <a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/javascript/a1a1aa" height="16" title="JavaScript" /></a>&nbsp;&nbsp;
+      <a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/react/a1a1aa" height="16" title="React" /></a>&nbsp;&nbsp;
+      <a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs/a1a1aa" height="16" title="Node.js" /></a>&nbsp;&nbsp;
+      <a href="https://i.imgur.com/4jktZUW.jpeg" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/a1a1aa" height="16" title="Next.js" /></a>
       <br><br>
     </td>
     <td width="440" align="left" valign="top">
